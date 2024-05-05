@@ -5,7 +5,7 @@ Title: Adoption of Machine Learning Techniques for Intrusion Detection in
 Telecommunication Network
 
 
-## Abastrat
+## Abstract
 
 In recent years, to safeguard Telecommunication Networks from increasingly frequent and sophisticated attacks, various methods have been designed and developed by the scientific community to detect intrusions. Among the most widespread and effective solutions are various tools, including Network Intrusion Detection Systems (NIDS) based on Machine Learning techniques. The use of such NIDS systems has become necessary to provide more secure networks and mitigate the costs associated with attacks.
 
